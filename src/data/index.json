@@ -1,0 +1,264 @@
+{
+    "skills": [
+        {
+            "id": 1,
+            "src": "./img/product-chain-1.png",
+            "title": "Front-end Development",
+            "description": "Frontend development is my true passion, where creativity meets technology. I love bringing designs to life, creating user-friendly interfaces for web and mobile.",
+            "tags": ["HTML", "CSS", "Js", "Bootsrap", "ReactJs", "Dart"]
+        },
+        {
+            "id": 22,
+            "src": "./img/tag-1.png",
+            "title": "Back-end Development",
+            "description": "I enjoy the challenge of building robust systems and optimizing server-side logic, ensuring a seamless connection between databases and user interfaces.",
+            "tags": ["Java", "C", "Python", "MySql", "Firebase"]
+        }
+    ],
+
+    "portfolio": [
+        {
+            "id": 1,
+            "src": "./img/web-6.png",
+            "title": "OBUDDY Website",
+            "category": "web",
+            "description": "OBUDDY is packed with features that cater to the needs of students and encourage social engagement within the campus community and this web for promoting OBUDDY mobile application. Built with HTML, CSS, JavaScript, Bootstrap, Tiny Slider, Font Awesome, and Venobox.",
+            "link": "https://github.com/Lawo69/OBUDDY-App-Website",
+            "preview": "https://lawo69.github.io/OBUDDY-App-Website/"
+        },
+        {
+            "id": 2,
+            "src": "./img/web-1.png",
+            "title": "Apollo Car Service",
+            "category": "web",
+            "description": "The Apollo Car Service is a web template for you made of HTML, CSS, and Js. This project showcases a professional and responsive website for an automobile service business. Whether you're a car owner looking for top-notch servicing, Apollo Car Service has you covered.",
+            "link": "https://github.com/Lawo69/Apollo-Car-Service",
+            "preview": "https://lawo69.github.io/Apollo-Car-Service/"
+        },
+        {
+            "id": 3,
+            "src": "./img/mobile-1.png",
+            "title": "OBUDDY",
+            "category": "mobile",
+            "description": "OBUDDY is a mobile app made with Flutter to help students connect and build friendships on campus. Allowing students to communicate and form meaningful relationships within their campus. This app has a lot of features like chatting, posting, and checking availability.",
+            "link": "https://github.com/ChaniduMadalagama/OBUDDY",
+            "preview": "#MyPortfolio"
+        },
+        {
+            "id": 4,
+            "src": "./img/web-3.png",
+            "title": "PIXMATO",
+            "category": "web",
+            "description": "PIXMATO, is your e-commerce destination for exquisite wall art. Immerse yourself in a seamless shopping experience powered by ReactJS and SCSS. Explore our collection, where creativity meets craftsmanship, on a visually stunning website designed for PIXMATO.",
+            "link": "https://github.com/Lawo69/PIXMATO",
+            "preview": "#MyPortfolio"
+        },
+        {
+            "id": 5,
+            "src": "./img/tool-1.png",
+            "title": "Exchange Rate Cal",
+            "category": "tools",
+            "description": "This is a simple exchange rate calculator that allows users to convert between different currencies. It fetches real-time exchange rate data from an external API and provides an easy-to-use interface for currency conversion. It's made by using HTML, CSS, and JavaScript.",
+            "link": "https://github.com/Lawo69/Exchange-Rate-Calculator",
+            "preview": "https://lawo69.github.io/Exchange-Rate-Calculator/"
+        },
+        {
+            "id": 6,
+            "src": "./img/web-2.png",
+            "title": "Luckey Web Game",
+            "category": "web",
+            "description": "Just launched my fun number guessing game, Luckey! It's made by using HTML, CSS, and JavaScript. Try your luck and guess the number between 0 and 10. The colorful luck meter changes based on your performance. Can you reach \"So Lucky\"?",
+            "link": "https://github.com/Lawo69/Luckey",
+            "preview": "https://lawo69.github.io/Luckey/"
+        },
+        {
+            "id": 7,
+            "src": "./img/web-4.png",
+            "title": "University of Srilanka",
+            "category": "web",
+            "description": "This is a website made for the University of Sri Lanka YouTube channel using HTML, CSS, and JS. Whether you're a interested in higher education, this YouTube Channel delivers valuable insights. Stay updated with informative videos on higher education.",
+            "link": "https://github.com/Lawo69/University-of-Srilanka",
+            "preview": "https://lawo69.github.io/University-of-Srilanka/"
+        },
+        {
+            "id": 8,
+            "src": "./img/web-5.png",
+            "title": "Tech Mentor",
+            "category": "web",
+            "description": "The Tech Mentor University web page project. It's created by HTML, CSS, and Js. This project serves as the official web page for Tech Mentor University, providing students and visitors with access to course details, university news, offers, contact information, and registration details.",
+            "link": "https://github.com/Lawo69/Tech-Mentor",
+            "preview": "https://lawo69.github.io/Tech-Mentor/"
+        },
+        {
+            "id": 9,
+            "src": "./img/tool-2.png",
+            "title": "To-Do",
+            "category": "tools",
+            "description": "This is a simple To-Do List web application built using HTML, CSS, and JavaScript. You can use this to manage your tasks and keep track of your daily activities. This app is the perfect way to stay organized and on top of your tasks. It's simple and easy to handle.",
+            "link": "https://github.com/Lawo69/To-Do",
+            "preview": "https://lawo69.github.io/To-Do/"
+        },
+        {
+            "id": 10,
+            "src": "./img/ui-1.png",
+            "title": "Resto UI/UX",
+            "category": "ui/ux",
+            "description": "Resto is a platform where clients will be able to make their orders in the restaurants easily by using this application. It is made by using Adobe XD. They can find restaurants and check their menu of food. After the order clients can pay it and after they can track the order.",
+            "link": "https://www.behance.net/gallery/171991871/Resto-App-UI-Food-Ordering-Application",
+            "preview": "https://www.behance.net/gallery/171991871/Resto-App-UI-Food-Ordering-Application"
+        },
+        {
+            "id": 11,
+            "src": "./img/mobile-2.png",
+            "title": "Coffeemate",
+            "category": "mobile",
+            "description": "Coffeemate, an Android app built with Java using Android Studio, is a social media platform that helps people combat loneliness by connecting them with nearby individuals. Users can connect based on shared interests, fostering meaningful connections.",
+            "link": "https://github.com/Lawo69/Coffeemate",
+            "preview": "#MyPortfolio"
+        }
+    ],
+    
+    "testimonial": [
+        {
+            "id": 1,
+            "count": "5",
+            "src": "./img/avatar-image.png",
+            "description": "Lorem ipsu dolor sit amenyt, conste hdu jterwhuer jksdaybcj. shgydnekfi ns hdftvehcnem nikeon sgewh dbieu nkowml",
+            "author_name": "Dianne Russel",
+            "author_designation": "Starbucks"
+        },
+        {
+            "id": 2,
+            "count": "5",
+            "src": "./img/avatar-image-1.png",
+            "description": "Lorem ipsu dolor sit amenyt, conste hdu jterwhuer jksdaybcj. shgydnekfi ns hdftvehcnem nikeon sgewh dbieu nkowml",
+            "author_name": "Dianne Russel",
+            "author_designation": "Starbucks"
+        },
+        {
+            "id": 3,
+            "count": "5",
+            "src": "./img/avatar-image-2.png",
+            "description": "Lorem ipsu dolor sit amenyt, conste hdu jterwhuer jksdaybcj. shgydnekfi ns hdftvehcnem nikeon sgewh dbieu nkowml",
+            "author_name": "Dianne Russel",
+            "author_designation": "Starbucks"
+        }
+    ],
+
+    "blog": [
+        {
+            "id": 1,
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTZLYOHughx8-k8FgnGhyphenhyphengxywungQOTw5hDknSvbU5Ru5vQ5WQ2iM2mudOmfWwFGjgS4ihBvKfrVRQaP8Qc9Kyv_tU6kctgmKb9HEtjHopG3qXQVNVd2fPuF1A_vFYNihjlPVO_OZMDp1EpqiHz502gQEmkM2_NkOW6Bfpkeu0HISc2yQTHJuDHv2pZd8/s16000-rw/PoP-Lost-Crown-Announced_06-08-23.png",
+            "title": "Introducing Next-Gen Ray-Ban Meta Smart Glasses in Partnership with Meta",
+            "description": "In a ground breaking collaboration with Essilor Luxottica , Meta ( formerly Facebook ) proudly presents the much - anticipated Ray -Ban Meta smart glasses , the next...",
+            "preview": "https://www.techwadiya.us/2023/10/introducing-next-generation-ray-ban.html"
+        },
+        {
+            "id": 2,
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Z2F5TKPOf2FBmmhCQRlm47G4Uj1bJHrrVm8CpelJ2-kwDZGjvSNmfhz9C5S4l5swE-P4fHl-0_wmurQciFqnoYRMC_8rGhlFSLL8qBwZ5G26sW9nYHE9SPbX05IvIZqjl7rEKsvAxJNpLn3mraVfjQ9IFMIEkgjUD8Q0aLAk1JrDCM6Pst1vgAjaZDQ/s16000-rw/emo.jpg",
+            "title": "Emo Robot: A Fun and Educational Companion for People of All Ages",
+            "description": "Emo is a new type of desktop companion that is powered by artificial intelligence (AI). It is designed to be fun, engaging, and educational. Emo can learn and grow over time, and it...",
+            "preview": "https://www.techwadiya.us/2023/09/emo-robot-fun-and-educational-companion.html"
+        },
+        {
+            "id": 3,
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGqoyxIqP3vORSs2A6Wen8lR9mff_Ut174w969487zsl8jgAwKZzHEoo1imgmFfeTrgEsN1oAR5CQgUdpCGSFKwLrA_H1Y6dtBZmjd8HV-NtQ2m6PVX6Irn-tzwBFhjeUoHnBXkpO2F-kckHqsqr8Okm76Vburr2Hz3as4uOlG7BmOsEzrimrzpzYDjk4/s16000-rw/google.jpg",
+            "title": "Google's 25th Birthday: A Time to Thank the Company for All It Has Done",
+            "description": "On September 27, 1998, two Stanford graduate students, Sergey Brin and Larry Page, founded Google Inc. in a rented garage in Menlo Park, California. Their goal was to create...",
+            "preview": "https://www.techwadiya.us/2023/09/google-turns-25-quarter-century-of.html"
+        }
+    ],
+
+    "certifications": [
+        {
+            "id": 1,
+            "src": "./img/OCIF2023CA.png",
+            "title": "Oracle Cloud Infrastructure 2023 Certified Foundations Associate",
+            "category": "cloud",
+            "description": "The Oracle Cloud Infrastructure (OCI) Foundations certification is for individuals who intend to demonstrate fundamental knowledge of public cloud services provided by Oracle Cloud Infrastructure (OCI).",
+            "link": "https://github.com/Lawo69/OBUDDY-App-Website",
+            "preview": "https://drive.google.com/file/d/1Z9TKA2hikYSuAPOtnQPIZRLgmgb2URnj/view?usp=sharing"
+        },
+        {
+            "id": 2,
+            "src": "./img/js.png",
+            "title": "Introduction to JavaScript by Sololearn",
+            "category": "programming",
+            "description": "The Oracle Cloud Infrastructure (OCI) Foundations certification is for individuals who intend to demonstrate fundamental knowledge of public cloud services provided by Oracle Cloud Infrastructure (OCI).",
+            "link": "https://github.com/Lawo69/OBUDDY-App-Website",
+            "preview": "https://drive.google.com/file/d/1Z9TKA2hikYSuAPOtnQPIZRLgmgb2URnj/view?usp=sharing"
+        },
+        {
+            "id": 3,
+            "src": "./img/python2.png",
+            "title": "Python Data Structures",
+            "category": "programming",
+            "description": "The Oracle Cloud Infrastructure (OCI) Foundations certification is for individuals who intend to demonstrate fundamental knowledge of public cloud services provided by Oracle Cloud Infrastructure (OCI).",
+            "link": "https://github.com/Lawo69/OBUDDY-App-Website",
+            "preview": "https://drive.google.com/file/d/1Z9TKA2hikYSuAPOtnQPIZRLgmgb2URnj/view?usp=sharing"
+        },
+        {
+            "id": 4,
+            "src": "./img/java.png",
+            "title": "Introduction to Java by Sololearn",
+            "category": "programming",
+            "description": "The Oracle Cloud Infrastructure (OCI) Foundations certification is for individuals who intend to demonstrate fundamental knowledge of public cloud services provided by Oracle Cloud Infrastructure (OCI).",
+            "link": "https://github.com/Lawo69/OBUDDY-App-Website",
+            "preview": "https://drive.google.com/file/d/1Z9TKA2hikYSuAPOtnQPIZRLgmgb2URnj/view?usp=sharing"
+        },
+        {
+            "id": 6,
+            "src": "./img/php.png",
+            "title": "Introduction to PHP by Sololearn",
+            "category": "programming",
+            "description": "The Oracle Cloud Infrastructure (OCI) Foundations certification is for individuals who intend to demonstrate fundamental knowledge of public cloud services provided by Oracle Cloud Infrastructure (OCI).",
+            "link": "https://github.com/Lawo69/OBUDDY-App-Website",
+            "preview": "https://drive.google.com/file/d/1Z9TKA2hikYSuAPOtnQPIZRLgmgb2URnj/view?usp=sharing"
+        },
+        {
+            "id": 5,
+            "src": "./img/python.png",
+            "title": "Programming for Everybody (Getting Started with Python)",
+            "category": "programming",
+            "description": "The Oracle Cloud Infrastructure (OCI) Foundations certification is for individuals who intend to demonstrate fundamental knowledge of public cloud services provided by Oracle Cloud Infrastructure (OCI).",
+            "link": "https://github.com/Lawo69/OBUDDY-App-Website",
+            "preview": "https://drive.google.com/file/d/1Z9TKA2hikYSuAPOtnQPIZRLgmgb2URnj/view?usp=sharing"
+        },
+        {
+            "id": 7,
+            "src": "./img/cybersec.png",
+            "title": "The Foundations of Cybersecurity",
+            "category": "programming",
+            "description": "The Oracle Cloud Infrastructure (OCI) Foundations certification is for individuals who intend to demonstrate fundamental knowledge of public cloud services provided by Oracle Cloud Infrastructure (OCI).",
+            "link": "https://github.com/Lawo69/OBUDDY-App-Website",
+            "preview": "https://drive.google.com/file/d/1Z9TKA2hikYSuAPOtnQPIZRLgmgb2URnj/view?usp=sharing"
+        },
+        {
+            "id": 8,
+            "src": "./img/sql.png",
+            "title": "Introduction to Relational Database and SQL",
+            "category": "database",
+            "description": "The Oracle Cloud Infrastructure (OCI) Foundations certification is for individuals who intend to demonstrate fundamental knowledge of public cloud services provided by Oracle Cloud Infrastructure (OCI).",
+            "link": "https://github.com/Lawo69/OBUDDY-App-Website",
+            "preview": "https://drive.google.com/file/d/1Z9TKA2hikYSuAPOtnQPIZRLgmgb2URnj/view?usp=sharing"
+        },
+        {
+            "id": 9,
+            "src": "./img/profound.png",
+            "title": "Programming Foundations with JavaScript, HTML and CSS",
+            "category": "programming",
+            "description": "The Oracle Cloud Infrastructure (OCI) Foundations certification is for individuals who intend to demonstrate fundamental knowledge of public cloud services provided by Oracle Cloud Infrastructure (OCI).",
+            "link": "https://github.com/Lawo69/OBUDDY-App-Website",
+            "preview": "https://drive.google.com/file/d/1Z9TKA2hikYSuAPOtnQPIZRLgmgb2URnj/view?usp=sharing"
+        },
+        {
+            "id": 10,
+            "src": "./img/design.png",
+            "title": "Design Thinking for Innovation",
+            "category": "programming",
+            "description": "The Oracle Cloud Infrastructure (OCI) Foundations certification is for individuals who intend to demonstrate fundamental knowledge of public cloud services provided by Oracle Cloud Infrastructure (OCI).",
+            "link": "https://github.com/Lawo69/OBUDDY-App-Website",
+            "preview": "https://drive.google.com/file/d/1Z9TKA2hikYSuAPOtnQPIZRLgmgb2URnj/view?usp=sharing"
+        }
+    ]
+}
